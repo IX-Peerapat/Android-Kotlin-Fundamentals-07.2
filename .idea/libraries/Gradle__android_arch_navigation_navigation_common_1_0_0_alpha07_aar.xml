@@ -1,12 +1,12 @@
 <component name="libraryTable">
   <library name="Gradle: android.arch.navigation:navigation-common:1.0.0-alpha07@aar">
     <ANNOTATIONS>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/728ab3414a33bdf5e3db56606798bd4f/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/09593045d54bdb327eaced6cd8c346fd/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/728ab3414a33bdf5e3db56606798bd4f/AndroidManifest.xml" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/728ab3414a33bdf5e3db56606798bd4f/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/728ab3414a33bdf5e3db56606798bd4f/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/09593045d54bdb327eaced6cd8c346fd/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/09593045d54bdb327eaced6cd8c346fd/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/09593045d54bdb327eaced6cd8c346fd/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
